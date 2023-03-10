@@ -1,0 +1,50 @@
+.header {
+    background-image: url("./Photos/BackGround.jpg");
+    background-size: cover;
+}
+
+.headerHome {
+    background-image: url("./Photos/BackGround.jpg");
+    background-size: cover;
+}
+
+.headerAbout {
+    background-image: url("./Photos/BackGround.jpg");
+    background-size: cover;
+}
+
+.headerHoodies {
+    background-image: url("./Photos/bg2.jpg");
+    background-size: cover;
+}
+
+.headerProductPage {
+    background-image: url("./Photos/bg2.jpg");
+    background-color: rgb(240, 238, 238);
+    background-size: cover
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(119, 115, 115, 0.2);
+    transition: 0.3s;
+    width: 40%;
+    
+}
+
+
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn {
+    position: fixed;
+    bottom: 5%;
+    right: 15%;
+  }
+
+  .about{
+    position: fixed;
+    top: 25%;
+    right: 25%;
+  }

@@ -1,0 +1,25 @@
+.link {
+    font-family: cursive;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: .1em;
+    font-size: medium;
+    text-transform: uppercase;
+    color: rgb(110, 93, 93);
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(0, 0, 0);
+}
+
+.font{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: .1em;
+    font-size:x-large;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
